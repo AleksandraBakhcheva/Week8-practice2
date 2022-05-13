@@ -1,0 +1,30 @@
+.header {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.header_dimensions {
+    margin: 0 8vw 0 8.9vw;
+}
+.nav-link {
+    color: #808080
+}
+.navbar-brand, .active, .footer {
+    color: #ffffff;
+}
+.main {
+    background-color: #f5f3f3;
+}
+.card_cap {
+    font-size: 1.5em;
+    color: rgb(186, 180, 180, 1);
+    background-color: rgb(186, 180, 180, 0.5);
+}
+.card_cap, .card-title {
+    font-size: 1.8em;
+    font-weight: 600;
+}
+.footer {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: #000000af;
+}
